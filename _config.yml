@@ -9,7 +9,8 @@ github_username: your-github-handle # DO NOT include the @ character, or else th
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-remote_theme: pages-themes/cayman@v0.2.0 
+# remote_theme: pages-themes/cayman@v0.2.0 
 
-plugins: 
-- jekyll-remote-theme
+# plugins: 
+# - jekyll-remote-theme
+theme: cayman
